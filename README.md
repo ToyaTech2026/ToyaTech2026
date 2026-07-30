@@ -7,10 +7,11 @@ I am a detail-oriented Quality Control Associate pivoting into **Enterprise Clou
 ---
 
 ## 📈 My 6-Month Cloud Roadmap (2026)
-- [x] **Month 1:** Learn Cloud Fundamentals & Architecture Core ➔ **[AI-901 Certified]**
-- [ ] **Months 2-3:** Deep-Dive Infrastructure, Identity, & Networking ➔ **[Targeting AZ-104]**
-- [ ] **Months 4-5:** Enterprise Security & Compliance Governance ➔ **[Targeting AZ-500]**
+- [ ] **Months 1-2:** Core Information Security & Threat Mitigation ➔ **[Targeting CompTIA Security+]**
+- [ ] **Month 3:** Secure Cloud AI Foundations & Implementation ➔ **[Targeting AI-901]**
+- [ ] **Months 4-5:** Deep-Dive Infrastructure & Advanced Cloud Security ➔ **[Targeting AZ-104 & AZ-500]**
 - [ ] **Month 6:** Deploy Live Capstone Projects & Begin Technical Interviews
+
 
 ---
 
