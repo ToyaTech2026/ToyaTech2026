@@ -15,9 +15,20 @@ I am a detail-oriented Quality Control Associate pivoting into **Enterprise Clou
 ---
 
 ## 🧰 Technical Sandbox Focus
-* **Cloud Platform:** Microsoft Azure (Entra ID, Azure Virtual Networks, Blob Storage)
-* **Security & Guardrails:** Zero Trust Architecture, RBAC, Network Security Groups, Azure Policy
-* **Core Logic & Interests:** PC Virtualization, Network Optimization, Systems Lifecycle Management
+
+### ☁️ Cloud Platform & Core Infrastructure
+* **Azure Compute & Networking:** Isolated Virtual Networks (VNets), Hub-and-Spoke topologies, VNet Peering, and custom Route Tables.
+* **Identity & Access Management (IAM):** Microsoft Entra ID governance, Role-Based Access Control (RBAC) principle of least privilege, Conditional Access policies, and Passwordless Managed Identities.
+
+### 🛡️ Cloud Security & Threat Defense
+* **Data & Secrets Protection:** Azure Key Vault hardware-backed encryption, secret rotation, and private endpoint vaulting.
+* **Network Hardening:** Network Security Groups (NSGs), Application Security Groups (ASGs), and Azure Firewall perimeter lockouts.
+* **Governance & Monitoring:** Enterprise compliance guardrails via Azure Policy, security state visualization using Microsoft Defender for Cloud, and SIEM incident investigation via Microsoft Sentinel.
+
+### 🤖 AI Engineering & Content Guardrails
+* **Platform Operations:** Model deployments, prompt structuring, and autonomous agent orchestration inside **Microsoft Foundry**.
+* **AI Safety Engineering:** Azure AI Content Safety configuration, custom text blocklist implementation, and automated prompt-injection mitigation scripts using **Python**.
+
 
 ---
 
