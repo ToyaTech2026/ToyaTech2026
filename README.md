@@ -36,10 +36,10 @@ I am a detail-oriented Quality Control Associate pivoting into **Enterprise Clou
 ## 🔬 Featured Portfolio Projects
 I document my engineering lab builds step-by-step to prove my practical capabilities:
 
-* **[📁 Azure Infrastructure Firewall & VNets](./secure-azure-network)**
+* **[📁 Azure Infrastructure Firewall & VNets]https://github.com/ToyaTech2026/secure-azure-network**
   *My primary infrastructure repository mapping out secure virtual networking, custom subnets, and active inbound NSG firewall rules.*
 
-* **[📁 Secure Cloud Data & Vaulting Storage](./secure-azure-network/tree/main/keyvault-lab)**
+* **[📁 Secure Cloud Data & Vaulting Storage]https://github.com/ToyaTech2026/secure-azure-network/tree/main/keyvault-lab**
   *Enterprise key management architecture showcasing hardcoded credential elimination, network-disabled Key Vaults, and strict Azure RBAC integration.*
 
 
