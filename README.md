@@ -1,16 +1,76 @@
-## Hi there 👋 I'm Latoya
+# 👋 Hi, I'm Latoya, an Aspiring Cloud Network Engineer
 
-### Quality Control Professional ➔ Aspiring Azure Cloud & Security Engineer
+I am a highly analytical **Quality Control Associate** currently executing a deliberate, strategic transition into **Azure Cloud Infrastructure and Security**. 
 
-I am a detail-oriented Quality Control Associate pivoting into **Enterprise Cloud Infrastructure and Security**. My professional background is rooted in risk mitigation, compliance auditing, and systematic troubleshooting. I apply this exact "security-first" mindset to building, hardening, and monitoring Microsoft Azure environments.
+My professional background is built on a foundation of strict compliance auditing, risk mitigation, and systematic root-cause troubleshooting. I am leveraging this exact "security-first" mindset to learn how to build, automate, and harden enterprise-grade cloud networks.
 
 ---
 
-## 📈 My 6-Month Cloud Roadmap (2026)
-- [ ] **Months 1-2:** Core Information Security & Threat Mitigation ➔ **[Targeting CompTIA Security+]**
-- [ ] **Month 3:** Secure Cloud AI Foundations & Implementation ➔ **[Targeting AI-901]**
-- [ ] **Months 4-5:** Deep-Dive Infrastructure & Advanced Cloud Security ➔ **[Targeting AZ-104 & AZ-500]**
-- [ ] **Month 6:** Deploy Live Capstone Projects & Begin Technical Interviews
+### 🚀 What I'm Working On Right Now
+- 📚 **Academic Track:** Pre-studying for my B.S. in Cloud and Network Engineering at Western Governors University (WGU).
+- 🛡️ **Security Baseline:** Deep-diving into cryptography, threat landscapes, and perimeter defense for the **CompTIA Security+**.
+- ☁️ **Cloud Core:** Master-mapping ecosystem fundamentals for **Azure AI-900**.
+- 💻 **Infrastructure as Code:** Writing deterministic, repeatable environments using **Azure Bicep**.
+
+### 🛠️ Tech Stack & Ecosystem Focus
+- **Cloud Ecosystem:** Microsoft Azure (AZ-104, AZ-700, AI-900 tracks)
+- **Infrastructure as Code:** Azure Bicep, Markdown Documentation
+- **Core Networking:** TCP/IP, Subnetting, OSI Model, Network Security Groups (NSGs)
+- **Methodologies:** Root-Cause Analysis (RCA), Compliance Auditing, Continuous Improvement
+---
+
+# 📈 Long-Term Career Transition Roadmap (Azure Track)
+
+This roadmap outlines my deliberate, strategic transition from a Quality Control Technician into a **Cloud Network Engineer**. By leveraging third-party transfer pathways (Sophia.org) before officially enrolling in Western Governors University (WGU), I am maximizing cost-efficiency while systematically scaling up my technical depth.
+
+---
+
+## 🟩 Phase 1: Pre-Enrollment & Transfer Optimization (Months 1–4)
+*Focus: Maximizing cost efficiency by clearing general education and baseline IT requirements outside of WGU.*
+
+- [ ] **Months 1–2: General Education Blitz**
+  - **Targets:** English Composition, Public Speaking, Statistics, and Ethics via Sophia.org.
+  - **Objective:** Clear all non-technical academic hurdles early to protect technical focus later.
+- [ ] **Months 3–4: Core IT & Automation Foundations**
+  - **Targets:** Introduction to IT, Relational Databases, and Project Management via Sophia.org.
+  - **Objective:** Master data structure fundamentals and completely bypass the dry CompTIA Project+ exam via direct course transfer.
+
+---
+
+## 🟨 Phase 2: Core Credentialing Baseline (Months 5–6)
+*Focus: Securing industry certifications to validate early skills and lock in direct upper-level transfer credits.*
+
+| Target Timeline | Certification Target | WGU Course Exemption | Status |
+| :--- | :--- | :--- | :--- |
+| **Month 5** | `CompTIA Security+` | Network and Security - Applications | ⏳ Studying |
+| **Month 6** | `Microsoft Azure AI-900` | Cloud Fundamentals | ⏳ Studying |
+
+> *Note: Upon completion of Phase 2, all official external transcripts will be locked, submitted, and audited by WGU Admissions prior to official Day 1 enrollment.*
+
+---
+
+## 🟦 Phase 3: WGU Day 1 & Foundational Networking (Months 7–12)
+*Focus: Systems validation, Linux command-line mastery, and deep physical network competence.*
+
+- [ ] **Months 7–9: Systems, Hardware, & OS Core**
+  - **Credentials:** CompTIA A+ (Core 1 & 2) + LPI Linux Essentials.
+  - **Objective:** Master client-side endpoints, core hardware components, and the Linux command-line environment powering modern cloud nodes.
+- [ ] **Months 10–12: Advanced Infrastructure & Routing Tables**
+  - **Credentials:** CompTIA Network+.
+  - **Objective:** Master subnetting, packet analysis, the OSI model, BGP routing protocols, and fundamental traffic engineering.
+
+---
+
+## 🟪 Phase 4: Azure Advanced Engineering & Graduation (Months 13–24)
+*Focus: Deep-dive enterprise cloud architecture design, software-defined networking, and market deployment.*
+
+- [ ] **Months 13–18: Systems Administration & Cloud Hardening**
+  - **Credentials:** `Microsoft AZ-104` (Azure Administrator) + Cloud Security tracks.
+  - **Objective:** Manage enterprise Azure Active Directory (Entra ID), secure virtual networks, scale storage accounts, and deploy robust cloud perimeters.
+- [ ] **Months 19–24: Enterprise Networking, Capstone, & Market Pivot**
+  - **Credentials:** `Microsoft AZ-700` (Azure Network Engineer Associate) + Capstone Project.
+  - **Objective:** Architect multi-subnet automated hub-and-spoke production topologies via Infrastructure as Code (Bicep/Terraform). Graduate WGU and transition to a full-time **Cloud Network Engineer** role.
+
 
 
 ---
@@ -51,6 +111,6 @@ I document my engineering lab builds step-by-step to prove my practical capabili
 * **Location:** Atlanta, GA (Open to Local & Remote Opportunities)
 
 *"The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." – Steve Jobs*
-
+*"True grit isn't about being motivated; it's about building a daily system that overrides excuses."*
 
 
