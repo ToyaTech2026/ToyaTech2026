@@ -111,6 +111,6 @@ I document my engineering lab builds step-by-step to prove my practical capabili
 * **Location:** Atlanta, GA (Open to Local & Remote Opportunities)
 
 *"The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." – Steve Jobs*
-*"True grit isn't about being motivated; it's about building a daily system that overrides excuses."*
+
 
 
