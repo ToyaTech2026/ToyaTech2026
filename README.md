@@ -11,6 +11,12 @@ My professional background is built on a foundation of strict compliance auditin
 - 🛡️ **Security Baseline:** Deep-diving into cryptography, threat landscapes, and perimeter defense for the **CompTIA Security+**.
 - ☁️ **Cloud Core:** Master-mapping ecosystem fundamentals for **Azure AI-900**.
 - 💻 **Infrastructure as Code:** Writing deterministic, repeatable environments using **Azure Bicep**.
+---
+
+### 🛡️ CompTIA Security+ Study Hub & Blueprint
+I am centralizing my Security+ domain mastery inside a dedicated study repository. This hub serves as my technical documentation playground as I map out security protocols directly into cloud environments:
+- 📂 **Active Study Repository:** [🔒 Security+ Domain Mastery Hub](https://github.com[YOUR-USERNAME]/[YOUR-SECURITY-PLUS-REPO-NAME])
+- 🎯 **Current Focus:** Core Cryptography, Threat Landscape Analysis, and Perimeter Firewall Engineering.
 
 ### 🛠️ Tech Stack & Ecosystem Focus
 - **Cloud Ecosystem:** Microsoft Azure (AZ-104, AZ-700, AI-900 tracks)
