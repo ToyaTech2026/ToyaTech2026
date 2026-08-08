@@ -15,7 +15,7 @@ My professional background is built on a foundation of strict compliance auditin
 
 ### 🛡️ CompTIA Security+ Study Hub & Blueprint
 I am centralizing my Security+ domain mastery inside a dedicated study repository. This hub serves as my technical documentation playground as I map out security protocols directly into cloud environments:
-- 📂 **Active Study Repository:** [🔒 Security+ Domain Mastery Hub](https://github.com[YOUR-USERNAME]/[YOUR-SECURITY-PLUS-REPO-NAME])
+- 📂 **Active Study Repository:** [🔒 Security+ Domain Mastery Hub](https://github.com/ToyaTech2026/comptia-security-plus-study-hub)
 - 🎯 **Current Focus:** Core Cryptography, Threat Landscape Analysis, and Perimeter Firewall Engineering.
 
 ### 🛠️ Tech Stack & Ecosystem Focus
